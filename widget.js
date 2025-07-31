@@ -23,6 +23,7 @@
   img.alt = 'Click me!';
   img.style.width = '100px';  // adjust as needed
   img.style.height = 'auto';
+  img.style.boxShadow = '0 0 20px rgba(0, 0, 0, 0.25)';
 
   // Assemble
   link.appendChild(img);
