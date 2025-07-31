@@ -10,7 +10,6 @@
   widget.style.right = '20px';
   widget.style.zIndex = '9999';
   widget.style.cursor = 'pointer';
-  widget.style.boxShadow = '0 0 20px rgba(0, 0, 0, 0.25)';
 
   // Create link
   const link = document.createElement('a');
